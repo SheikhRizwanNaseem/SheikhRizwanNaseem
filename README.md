@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ..Mern Stack
-- 🌱 I’m currently learning ...Mongodb and ExpresJS
-- 👯 I’m looking to collaborate on ...Rest APIs
-- 🤔 I’m looking for help with ...Rest APIs
-- 💬 Ask me about ...React JS
+- 🔭 I’m currently working on ..Freelance paltfrom as full stack web developer
+- 🌱 I’m currently learning ...MERN STACK 
+- 👯 I’m looking to collaborate on ...Website development
+- 🤔 I’m looking for help with ...MERN Stack
+- 💬 Ask me about ...Wordpress, Html,Css,ReactJS and Wordpress
 - 📫 How to reach me: ...engrrizwannaseem@gmail.com
 - 😄 Pronouns: ...He/Him
 -->
